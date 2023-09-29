@@ -1,0 +1,12 @@
+
+.heading h3
+{
+    font-size: 22px;
+    text-align: center;
+    display: inline;
+}
+
+.heading button
+{
+    border: 1px solid white;
+}
